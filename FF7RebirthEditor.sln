@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FF7RebirthDataObjectEditor", "FF7RebirthDataObjectEditor\FF7RebirthDataObjectEditor.csproj", "{670BBE4B-A355-4C49-AEA8-4D7E55848EFE}"
 EndProject
 Global
@@ -12,5 +15,11 @@ Global
 		{670BBE4B-A355-4C49-AEA8-4D7E55848EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{670BBE4B-A355-4C49-AEA8-4D7E55848EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{670BBE4B-A355-4C49-AEA8-4D7E55848EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46CE70B1-5FBB-4391-8CFC-BD54F5656B4B}
 	EndGlobalSection
 EndGlobal
